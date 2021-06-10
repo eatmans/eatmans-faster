@@ -5,5 +5,5 @@ package com.eatmans.faster.service;
  * @version 1.0
  * @date 2021/6/9
  */
-public class UserService {
+public interface UserService {
 }
